@@ -1,0 +1,25 @@
+comida = [ "Hamburger = hamburguesa" 
+	"Mashed potatoes = pure de patatas"
+	" Pepperoni pizza = pizza de peperoni"
+	" Baked potatoes  = patatas al horno " 
+	" Sauce = salsa" 
+	" Pork  = carne de cerdo" 
+	" Sandwich "
+	" Pescado "
+	" Papas fritas "
+	" Pancakes "
+	" Tacos Mexicanos "
+	" Alitas "
+	" Platano horneado "
+	" Chuleta de cerdo con salsa de cebolla "
+	" Marmaon "
+	" Cacerola de tortillas "
+	" Sopa de jaiba "
+	" Salmon "
+	" Pure de papas "
+	" brownie " ]
+	
+def imprimir menu ()
+	print(" escoge tus 5 comidas favoritas : ") 
+	for comida in comidas 
+	
